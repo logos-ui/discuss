@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/s8Kkkk2.png)
 
-[Click here for the full documentation](https://publish.obsidian.md/logos-ui/A+set+of+tools+for+sane+people)
+[Click here for the full documentation](https://logosui.com)
 
 Use this repo to submit bugs, request features, ask for help, provide examples, etc.
 
